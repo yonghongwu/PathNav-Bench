@@ -1,0 +1,3603 @@
+{
+  "source_dataset": "CAMELYON16",
+  "total_slides": 399,
+  "slides": {
+    "normal_001": {
+      "file_name": "normal_001.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1255854916,
+      "official_md5": "8ea1b0f9846a866861a9766160b4a5bf",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_001.tif"
+    },
+    "normal_002": {
+      "file_name": "normal_002.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1570273574,
+      "official_md5": "c87f0d69d86b2027490307274472d6a7",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_002.tif"
+    },
+    "normal_003": {
+      "file_name": "normal_003.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2160066168,
+      "official_md5": "86bff7022cec1d8c47ea426696231a4d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_003.tif"
+    },
+    "normal_004": {
+      "file_name": "normal_004.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 990100952,
+      "official_md5": "b049f1c2cf59f839039f2e45e036d630",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_004.tif"
+    },
+    "normal_005": {
+      "file_name": "normal_005.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1524383906,
+      "official_md5": "d3bfd284dc90f296a3a0467556659b2b",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_005.tif"
+    },
+    "normal_006": {
+      "file_name": "normal_006.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1222978786,
+      "official_md5": "1b66443e98e3f8b9f06a17663e4c9168",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_006.tif"
+    },
+    "normal_007": {
+      "file_name": "normal_007.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1628059710,
+      "official_md5": "cbdffa227b0c81fb0c7b15ad4b1a7012",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_007.tif"
+    },
+    "normal_008": {
+      "file_name": "normal_008.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1207311652,
+      "official_md5": "ed1fc4bb712ceaf1e8f03a9a142e44a0",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_008.tif"
+    },
+    "normal_009": {
+      "file_name": "normal_009.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1648453324,
+      "official_md5": "ad260f09344984343a6eda800292198d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_009.tif"
+    },
+    "normal_010": {
+      "file_name": "normal_010.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1530664068,
+      "official_md5": "f98e941202cbd5de2c1ac2076752c061",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_010.tif"
+    },
+    "normal_011": {
+      "file_name": "normal_011.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2420958520,
+      "official_md5": "1864a446108b29869abda2c225a3198f",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_011.tif"
+    },
+    "normal_012": {
+      "file_name": "normal_012.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1369125372,
+      "official_md5": "5946ba7f6420172a8ffde819ef7320de",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_012.tif"
+    },
+    "normal_013": {
+      "file_name": "normal_013.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1190506730,
+      "official_md5": "805d016bbae05861b40414fcf3284390",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_013.tif"
+    },
+    "normal_014": {
+      "file_name": "normal_014.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1457577490,
+      "official_md5": "b2ada7aa88468e3485af2c5d668cb71c",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_014.tif"
+    },
+    "normal_015": {
+      "file_name": "normal_015.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1688867474,
+      "official_md5": "af68d27b2b3b715feffd26a6935ca7b2",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_015.tif"
+    },
+    "normal_016": {
+      "file_name": "normal_016.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1104226426,
+      "official_md5": "60cb9f039bba9ab89df4383e40c3c95d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_016.tif"
+    },
+    "normal_017": {
+      "file_name": "normal_017.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1116625634,
+      "official_md5": "7a7e5cedbf4d1dc1026e42cad16500d3",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_017.tif"
+    },
+    "normal_018": {
+      "file_name": "normal_018.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1458017820,
+      "official_md5": "c9727966288c8b2a0014ccfb4c27ca4a",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_018.tif"
+    },
+    "normal_019": {
+      "file_name": "normal_019.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 958422074,
+      "official_md5": "edb296b49fae9af861c23bfc2e567d10",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_019.tif"
+    },
+    "normal_020": {
+      "file_name": "normal_020.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1190849842,
+      "official_md5": "774812c6306e5e1a3215c7252998bef0",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_020.tif"
+    },
+    "normal_021": {
+      "file_name": "normal_021.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1053563162,
+      "official_md5": "8ca95397291d44e722711c4753e9e9d1",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_021.tif"
+    },
+    "normal_022": {
+      "file_name": "normal_022.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1915214350,
+      "official_md5": "5d0cdadaa515954aecf6927144e7403d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_022.tif"
+    },
+    "normal_023": {
+      "file_name": "normal_023.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1303795006,
+      "official_md5": "fe6c74cfa1ac93b539041d21f50f0c8e",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_023.tif"
+    },
+    "normal_024": {
+      "file_name": "normal_024.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2783098622,
+      "official_md5": "5f0b5c2f4c8368d2d04fa64e07b30400",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_024.tif"
+    },
+    "normal_025": {
+      "file_name": "normal_025.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2115793608,
+      "official_md5": "405212e8738bc11417713cd8e21f2f99",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_025.tif"
+    },
+    "normal_026": {
+      "file_name": "normal_026.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2148116378,
+      "official_md5": "e6310db1c6d5bddbb6fc70509752b8f0",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_026.tif"
+    },
+    "normal_027": {
+      "file_name": "normal_027.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1154987214,
+      "official_md5": "d8d795950dbf846f0f094f2a86c6a49b",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_027.tif"
+    },
+    "normal_028": {
+      "file_name": "normal_028.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1689762972,
+      "official_md5": "bef17ccb9afe358024b0ba204bf85870",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_028.tif"
+    },
+    "normal_029": {
+      "file_name": "normal_029.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1598471568,
+      "official_md5": "5d734ad02e44708fb1ce399ba0337e46",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_029.tif"
+    },
+    "normal_030": {
+      "file_name": "normal_030.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1517847770,
+      "official_md5": "68dee94d3a48209514bbda64f917836d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_030.tif"
+    },
+    "normal_031": {
+      "file_name": "normal_031.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2138725346,
+      "official_md5": "6b36f3ceb1248613c7243746e8ffafc6",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_031.tif"
+    },
+    "normal_032": {
+      "file_name": "normal_032.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1706252706,
+      "official_md5": "cdf6dc0195c613bd5d7846e86bf9aff8",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_032.tif"
+    },
+    "normal_033": {
+      "file_name": "normal_033.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2185695882,
+      "official_md5": "86e9e67eebd8a8d173cf4c796fec68fd",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_033.tif"
+    },
+    "normal_034": {
+      "file_name": "normal_034.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2619372270,
+      "official_md5": "ff69d06190a5b0f2425c4d3b9e878223",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_034.tif"
+    },
+    "normal_035": {
+      "file_name": "normal_035.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1441492022,
+      "official_md5": "b6ff869ad2b2bbba63aeade41f197f33",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_035.tif"
+    },
+    "normal_036": {
+      "file_name": "normal_036.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1640940244,
+      "official_md5": "5ac8614cbefb18cb775803dfb3be0308",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_036.tif"
+    },
+    "normal_037": {
+      "file_name": "normal_037.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2146402708,
+      "official_md5": "8412d20260ade1450bad74ad8d69b256",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_037.tif"
+    },
+    "normal_038": {
+      "file_name": "normal_038.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1235015924,
+      "official_md5": "b4ecfc7193557a3a513abec1fcc9e26d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_038.tif"
+    },
+    "normal_039": {
+      "file_name": "normal_039.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1952556356,
+      "official_md5": "e0952a087eaf0bcd26577785a3d1faab",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_039.tif"
+    },
+    "normal_040": {
+      "file_name": "normal_040.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2650872068,
+      "official_md5": "c5eed69a65d9fb7694fd22be7ee1aae2",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_040.tif"
+    },
+    "normal_041": {
+      "file_name": "normal_041.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1926545504,
+      "official_md5": "870c0946a923111f92d27dcd538a52ee",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_041.tif"
+    },
+    "normal_042": {
+      "file_name": "normal_042.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 914485186,
+      "official_md5": "b7dfa8a25bb44a4725aadd2a67b88709",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_042.tif",
+      "preverified_sha256": "773eecd27eec7c27f820fa52abc5fca90047b0a8b6aa7a4dc056b95ae849cb09"
+    },
+    "normal_043": {
+      "file_name": "normal_043.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1401539166,
+      "official_md5": "fe28d8adbbe834f8672403d2e8a61900",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_043.tif"
+    },
+    "normal_044": {
+      "file_name": "normal_044.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1914591778,
+      "official_md5": "d98a31c0336a0f3aeb5565a71d8bde7a",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_044.tif"
+    },
+    "normal_045": {
+      "file_name": "normal_045.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1111705898,
+      "official_md5": "3d02aa884bcf390fd21fb8419e72838e",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_045.tif"
+    },
+    "normal_046": {
+      "file_name": "normal_046.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1306009060,
+      "official_md5": "89eba284d2ad75cf4a39de38f1c025e9",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_046.tif"
+    },
+    "normal_047": {
+      "file_name": "normal_047.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1562580674,
+      "official_md5": "5e6f148e842a4dfbca7e090c7f52c542",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_047.tif"
+    },
+    "normal_048": {
+      "file_name": "normal_048.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1171699274,
+      "official_md5": "07fa430a6bc97ec8a8cabdb333ad0c42",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_048.tif"
+    },
+    "normal_049": {
+      "file_name": "normal_049.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1396581918,
+      "official_md5": "4557946e988c998fb2f32d6b9ebe7a51",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_049.tif"
+    },
+    "normal_050": {
+      "file_name": "normal_050.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2473794250,
+      "official_md5": "0c62917899ae429f0db0b7352b006fc3",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_050.tif"
+    },
+    "normal_051": {
+      "file_name": "normal_051.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1854503216,
+      "official_md5": "1f2e5f9ec06deb6d922a3004465c1d36",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_051.tif"
+    },
+    "normal_052": {
+      "file_name": "normal_052.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2300974104,
+      "official_md5": "61925b5eb4950dab5788676aab145ab7",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_052.tif"
+    },
+    "normal_053": {
+      "file_name": "normal_053.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2493278326,
+      "official_md5": "b8f003b0631e072e03514f6a880011f9",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_053.tif"
+    },
+    "normal_054": {
+      "file_name": "normal_054.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1108447178,
+      "official_md5": "affbaa05b0555402f5289366bafa7f48",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_054.tif"
+    },
+    "normal_055": {
+      "file_name": "normal_055.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1588077012,
+      "official_md5": "e1072932b62425c9d50ac0577119c6a7",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_055.tif"
+    },
+    "normal_056": {
+      "file_name": "normal_056.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1748625984,
+      "official_md5": "91df065b2dcf24d7e6ec89bcb9c3da48",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_056.tif"
+    },
+    "normal_057": {
+      "file_name": "normal_057.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1506763024,
+      "official_md5": "c2bb213f9cb143467502864903e20b04",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_057.tif"
+    },
+    "normal_058": {
+      "file_name": "normal_058.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1805717430,
+      "official_md5": "000f221b0528c8a3c3b2ac1ae51362e4",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_058.tif"
+    },
+    "normal_059": {
+      "file_name": "normal_059.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1674687846,
+      "official_md5": "d93a7f4446e099251f880e375a743879",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_059.tif"
+    },
+    "normal_060": {
+      "file_name": "normal_060.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1127384118,
+      "official_md5": "c6a84f893fc53691fb703bc5dcc069e7",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_060.tif"
+    },
+    "normal_061": {
+      "file_name": "normal_061.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2409392010,
+      "official_md5": "d0d61f7a2bc98b7cd563c9bc347bfcc2",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_061.tif"
+    },
+    "normal_062": {
+      "file_name": "normal_062.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1203843300,
+      "official_md5": "57f2835bd512af5a6bb184a7233561f2",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_062.tif"
+    },
+    "normal_063": {
+      "file_name": "normal_063.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1486505796,
+      "official_md5": "d3373e6c910aee82fa4add3b371696f4",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_063.tif"
+    },
+    "normal_064": {
+      "file_name": "normal_064.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2320974744,
+      "official_md5": "8fd215b1bef232341444f20dea0e7dff",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_064.tif"
+    },
+    "normal_065": {
+      "file_name": "normal_065.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1451532122,
+      "official_md5": "f6b99bf47247dca0c6981f89ebdfe072",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_065.tif"
+    },
+    "normal_066": {
+      "file_name": "normal_066.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 3632062616,
+      "official_md5": "8d58d7884fdb55cb897df82fd6fb3f2f",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_066.tif"
+    },
+    "normal_067": {
+      "file_name": "normal_067.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2373542166,
+      "official_md5": "ce25bc16b804c0ae266dee48c7b1a839",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_067.tif"
+    },
+    "normal_068": {
+      "file_name": "normal_068.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2335426038,
+      "official_md5": "39378560ab365e4a13340b4b130f3cb1",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_068.tif"
+    },
+    "normal_069": {
+      "file_name": "normal_069.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1724044172,
+      "official_md5": "c36bd3eb1ac54bfc2fad20e2559de7b3",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_069.tif"
+    },
+    "normal_070": {
+      "file_name": "normal_070.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2599391460,
+      "official_md5": "062d0c6a7182bcbf006a8b110d48f6af",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_070.tif"
+    },
+    "normal_071": {
+      "file_name": "normal_071.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1435178000,
+      "official_md5": "5f580b485ef2b5716c53c8224e6626bf",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_071.tif"
+    },
+    "normal_072": {
+      "file_name": "normal_072.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2241248734,
+      "official_md5": "8c2a9de3070d8c090c291b0977ee36e7",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_072.tif"
+    },
+    "normal_073": {
+      "file_name": "normal_073.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1734175814,
+      "official_md5": "3e711350318c7d91f8c3d6119b8e288b",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_073.tif"
+    },
+    "normal_074": {
+      "file_name": "normal_074.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2548060862,
+      "official_md5": "f77f771ffc60d2945f57d733a574f31b",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_074.tif"
+    },
+    "normal_075": {
+      "file_name": "normal_075.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1922213978,
+      "official_md5": "c2aba8b15eece4e5e4c3b36840a9d2fd",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_075.tif"
+    },
+    "normal_076": {
+      "file_name": "normal_076.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 3290210186,
+      "official_md5": "d084c69d9bb649cec79c54903e84cfdb",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_076.tif"
+    },
+    "normal_077": {
+      "file_name": "normal_077.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1605478412,
+      "official_md5": "323905e36617ee926748e5ee450e4536",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_077.tif"
+    },
+    "normal_078": {
+      "file_name": "normal_078.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1389684682,
+      "official_md5": "7dae95b93df1ede2c43b4856a089ed6c",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_078.tif"
+    },
+    "normal_079": {
+      "file_name": "normal_079.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2025670914,
+      "official_md5": "b31d912e7f09c47df9e068705b21300c",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_079.tif"
+    },
+    "normal_080": {
+      "file_name": "normal_080.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2699429630,
+      "official_md5": "4f6409ab16b9b098b10d3d1cb9878a74",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_080.tif"
+    },
+    "normal_081": {
+      "file_name": "normal_081.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2085299098,
+      "official_md5": "92b4da634ac14c45ad1179c5367bdd0c",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_081.tif"
+    },
+    "normal_082": {
+      "file_name": "normal_082.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2123318308,
+      "official_md5": "f355808214cd4c11bc5db5c7f52f4475",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_082.tif"
+    },
+    "normal_083": {
+      "file_name": "normal_083.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1373733836,
+      "official_md5": "d0213b5deb8bd86648f20a573e02752b",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_083.tif"
+    },
+    "normal_084": {
+      "file_name": "normal_084.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1379592198,
+      "official_md5": "5daae3f74e4dae1460ca8aee2f97d098",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_084.tif"
+    },
+    "normal_085": {
+      "file_name": "normal_085.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1562943164,
+      "official_md5": "366fa1451a1c1c67e05c914a58334ec8",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_085.tif"
+    },
+    "normal_087": {
+      "file_name": "normal_087.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2204458892,
+      "official_md5": "f8ab5a7c62dfabba69a211368e4b7452",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_087.tif"
+    },
+    "normal_088": {
+      "file_name": "normal_088.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2464553942,
+      "official_md5": "ec8d4eb93ae7fe0a6a5c4e50c0cb36fe",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_088.tif"
+    },
+    "normal_089": {
+      "file_name": "normal_089.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 3207012716,
+      "official_md5": "ac9cb53376d51215720f23dfee0f649f",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_089.tif"
+    },
+    "normal_090": {
+      "file_name": "normal_090.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2434735502,
+      "official_md5": "5fda48ff808cefb03c3e59ab40269d5b",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_090.tif"
+    },
+    "normal_091": {
+      "file_name": "normal_091.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 3581231786,
+      "official_md5": "16a4d8bf92c2833955de4738c7793da2",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_091.tif"
+    },
+    "normal_092": {
+      "file_name": "normal_092.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1837843178,
+      "official_md5": "698309953490348d46a70275ca374555",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_092.tif"
+    },
+    "normal_093": {
+      "file_name": "normal_093.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1915366008,
+      "official_md5": "14de166d523f18c52d7e96197ca5bbc7",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_093.tif"
+    },
+    "normal_094": {
+      "file_name": "normal_094.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2277058658,
+      "official_md5": "554f7ab43b3ba4a344904df6a48f5876",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_094.tif"
+    },
+    "normal_095": {
+      "file_name": "normal_095.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2481345972,
+      "official_md5": "9524b4614264387ce0fba7e4b2507f01",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_095.tif"
+    },
+    "normal_096": {
+      "file_name": "normal_096.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2081832132,
+      "official_md5": "872bf1b8dac82e12884fe7c840153b49",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_096.tif"
+    },
+    "normal_097": {
+      "file_name": "normal_097.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2192646528,
+      "official_md5": "44d440df3c70a1645db9d95091b995e5",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_097.tif"
+    },
+    "normal_098": {
+      "file_name": "normal_098.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1386825918,
+      "official_md5": "4e4665b188b8ba1f9e0a96f90d6a9dd1",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_098.tif"
+    },
+    "normal_099": {
+      "file_name": "normal_099.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2548487254,
+      "official_md5": "de4c011938d410e6a79c6850cc3c557e",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_099.tif"
+    },
+    "normal_100": {
+      "file_name": "normal_100.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1628955326,
+      "official_md5": "de766a86094006a7d4553abe38201b09",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_100.tif"
+    },
+    "normal_101": {
+      "file_name": "normal_101.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2086707841,
+      "official_md5": "607dddea30b1cd3758aea449efdf9a0e",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_101.tif"
+    },
+    "normal_102": {
+      "file_name": "normal_102.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1263964380,
+      "official_md5": "f71863e14829a2ee3f98b60ce4cb95cb",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_102.tif"
+    },
+    "normal_103": {
+      "file_name": "normal_103.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1048100028,
+      "official_md5": "bb75b1fe4ea818384982cc49b7d045fa",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_103.tif"
+    },
+    "normal_104": {
+      "file_name": "normal_104.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2730679347,
+      "official_md5": "04e9af720d4ab61df2feda62fcd53f3c",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_104.tif"
+    },
+    "normal_105": {
+      "file_name": "normal_105.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2422748959,
+      "official_md5": "9ba402273fa3a28ccdb1fd057dd8e118",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_105.tif"
+    },
+    "normal_106": {
+      "file_name": "normal_106.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2023986454,
+      "official_md5": "112a40e47f862616d3d4dbd79ae4ab67",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_106.tif"
+    },
+    "normal_107": {
+      "file_name": "normal_107.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1535224729,
+      "official_md5": "5540cf5e41b5023464b7f2c154a9f126",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_107.tif"
+    },
+    "normal_108": {
+      "file_name": "normal_108.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 326607275,
+      "official_md5": "3714c9bb0d83aa0702aa48526dc340c1",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_108.tif",
+      "preverified_sha256": "f606e8ef726a42840a2e0d33d3ffcd1afe9ea52ff98ef0880502958c2a07fe3c"
+    },
+    "normal_109": {
+      "file_name": "normal_109.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1230680686,
+      "official_md5": "0e7108dec59f070f6af70618377c01eb",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_109.tif"
+    },
+    "normal_110": {
+      "file_name": "normal_110.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1832378794,
+      "official_md5": "d90008ab06372e248e885e5e8cdf2dd2",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_110.tif"
+    },
+    "normal_111": {
+      "file_name": "normal_111.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2926237327,
+      "official_md5": "48a204c6869a027218c8b0b9c668f05f",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_111.tif"
+    },
+    "normal_112": {
+      "file_name": "normal_112.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2767650794,
+      "official_md5": "ee11713719eab8e98f3f2ecd7be0c6e4",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_112.tif"
+    },
+    "normal_113": {
+      "file_name": "normal_113.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1771662667,
+      "official_md5": "eb6f86ddefe6c852200b4d60ba86e882",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_113.tif"
+    },
+    "normal_114": {
+      "file_name": "normal_114.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 3305342358,
+      "official_md5": "2ebe9a2c0d196ba80afafc0b2032c96a",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_114.tif"
+    },
+    "normal_115": {
+      "file_name": "normal_115.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1473203872,
+      "official_md5": "d94a800383e986a608c40b1be0ae336c",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_115.tif"
+    },
+    "normal_116": {
+      "file_name": "normal_116.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1019309008,
+      "official_md5": "2ba1c7ae813c9608fc1f5cf8cac9ea3d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_116.tif"
+    },
+    "normal_117": {
+      "file_name": "normal_117.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1820733811,
+      "official_md5": "ecf1d117c4d5ab90f0aa6d119f90c028",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_117.tif"
+    },
+    "normal_118": {
+      "file_name": "normal_118.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1892888648,
+      "official_md5": "4563e946cf34908d657f46a46cca357f",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_118.tif"
+    },
+    "normal_119": {
+      "file_name": "normal_119.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1582549182,
+      "official_md5": "ab5b63ccf3084e4e282281a4d80ca222",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_119.tif"
+    },
+    "normal_120": {
+      "file_name": "normal_120.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2628801753,
+      "official_md5": "e54e6dab735fed953087c9a8620bdd91",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_120.tif"
+    },
+    "normal_121": {
+      "file_name": "normal_121.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2591108245,
+      "official_md5": "1bb48ee6a7f8f9cf3da27b110e824298",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_121.tif"
+    },
+    "normal_122": {
+      "file_name": "normal_122.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2295340620,
+      "official_md5": "3c4b4e52db03a0605af8ae150f4d546f",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_122.tif"
+    },
+    "normal_123": {
+      "file_name": "normal_123.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1151665426,
+      "official_md5": "4594d080c29ecf57e333cc974501abbd",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_123.tif"
+    },
+    "normal_124": {
+      "file_name": "normal_124.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1761760211,
+      "official_md5": "33c67a8d174c25fb146f4f4e01fb9e68",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_124.tif"
+    },
+    "normal_125": {
+      "file_name": "normal_125.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2053030906,
+      "official_md5": "c1273bf78b1e4d5e5ab4c9cbdc303a93",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_125.tif"
+    },
+    "normal_126": {
+      "file_name": "normal_126.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1780400475,
+      "official_md5": "a4a17f35e44415558a5175ea75bdf8d6",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_126.tif"
+    },
+    "normal_127": {
+      "file_name": "normal_127.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2409632748,
+      "official_md5": "801325d772c2b48227a518f3172cb233",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_127.tif"
+    },
+    "normal_128": {
+      "file_name": "normal_128.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1510377955,
+      "official_md5": "3492e62c01359c1512c089ac8eba9164",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_128.tif"
+    },
+    "normal_129": {
+      "file_name": "normal_129.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2745241749,
+      "official_md5": "796d9da082326c2736813e94806b5f02",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_129.tif"
+    },
+    "normal_130": {
+      "file_name": "normal_130.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1678749066,
+      "official_md5": "30fe5b96cc6fb471dc7312e56653f196",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_130.tif"
+    },
+    "normal_131": {
+      "file_name": "normal_131.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1712133020,
+      "official_md5": "458cdaebd3e90d443d24247bb3c32384",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_131.tif"
+    },
+    "normal_132": {
+      "file_name": "normal_132.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2180217696,
+      "official_md5": "d6488f70ae314ada33086a52d8aed32d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_132.tif"
+    },
+    "normal_133": {
+      "file_name": "normal_133.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2150575303,
+      "official_md5": "7b30ff775b1d9ca82cc8a6761f0ecc23",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_133.tif"
+    },
+    "normal_134": {
+      "file_name": "normal_134.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1488298047,
+      "official_md5": "8c5668eaf2e79035a7d84ccaa82c9cae",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_134.tif"
+    },
+    "normal_135": {
+      "file_name": "normal_135.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1666118834,
+      "official_md5": "9266f88451f26fc3a2062f7b4edcf83e",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_135.tif"
+    },
+    "normal_136": {
+      "file_name": "normal_136.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1636420098,
+      "official_md5": "ac2c202a086f4b2bc71f1275c5e42b1e",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_136.tif"
+    },
+    "normal_137": {
+      "file_name": "normal_137.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2486077985,
+      "official_md5": "27263372f7c857031af480ecf30c008a",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_137.tif"
+    },
+    "normal_138": {
+      "file_name": "normal_138.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2196880449,
+      "official_md5": "73ab2d9de7421b6796c784a64d246bf2",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_138.tif"
+    },
+    "normal_139": {
+      "file_name": "normal_139.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2192667387,
+      "official_md5": "52a62f5f4ae900d96013858a0bebdc81",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_139.tif"
+    },
+    "normal_140": {
+      "file_name": "normal_140.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2029094748,
+      "official_md5": "e55fe26e45f5e577ee8ccec4d468f940",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_140.tif"
+    },
+    "normal_141": {
+      "file_name": "normal_141.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 991765162,
+      "official_md5": "d3ac7b2c796bf812082c4c39985a858f",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_141.tif"
+    },
+    "normal_142": {
+      "file_name": "normal_142.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2381671967,
+      "official_md5": "d4cd7d97e9a8dd5588bb19a1978529d5",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_142.tif"
+    },
+    "normal_143": {
+      "file_name": "normal_143.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1971313896,
+      "official_md5": "9a00100b2126c421d32cf358b3e662f1",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_143.tif"
+    },
+    "normal_144": {
+      "file_name": "normal_144.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 3487944755,
+      "official_md5": "a256ad32166721436b7029be4d7e6749",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_144.tif"
+    },
+    "normal_145": {
+      "file_name": "normal_145.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 3014234184,
+      "official_md5": "045b0ccc52a06cc14ca569888b4cb921",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_145.tif"
+    },
+    "normal_146": {
+      "file_name": "normal_146.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2049272245,
+      "official_md5": "af146a836839f133cf76b7f1bf812f71",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_146.tif"
+    },
+    "normal_147": {
+      "file_name": "normal_147.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2345535649,
+      "official_md5": "f444c003369b4f2c4b9c699c94ad156d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_147.tif"
+    },
+    "normal_148": {
+      "file_name": "normal_148.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1200997056,
+      "official_md5": "fdf04ae1e5eb2cffe15802305cb152ff",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_148.tif"
+    },
+    "normal_149": {
+      "file_name": "normal_149.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2912373123,
+      "official_md5": "c48305e020e3c5e5a2fa3ded85bbeea1",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_149.tif"
+    },
+    "normal_150": {
+      "file_name": "normal_150.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 752213407,
+      "official_md5": "3995344fd58dd724d03e770eeced6997",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_150.tif"
+    },
+    "normal_151": {
+      "file_name": "normal_151.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2597448807,
+      "official_md5": "6b363f53a3061076e674e9699074486e",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_151.tif"
+    },
+    "normal_152": {
+      "file_name": "normal_152.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1354653076,
+      "official_md5": "f527378f1e7d7cb8c6e3cef86c32ab7c",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_152.tif"
+    },
+    "normal_153": {
+      "file_name": "normal_153.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1564254050,
+      "official_md5": "e098e67ddc04fbec8f383d22fc9c4ea3",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_153.tif"
+    },
+    "normal_154": {
+      "file_name": "normal_154.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1920491837,
+      "official_md5": "c5807439fcd881051c0b9e3a1a432957",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_154.tif"
+    },
+    "normal_155": {
+      "file_name": "normal_155.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1386889396,
+      "official_md5": "1b9c37f8c001f8224f132799823dcf0c",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_155.tif"
+    },
+    "normal_156": {
+      "file_name": "normal_156.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1206147444,
+      "official_md5": "c76439ba187c7689a23621704c4a04ee",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_156.tif"
+    },
+    "normal_157": {
+      "file_name": "normal_157.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2053423666,
+      "official_md5": "740fe66246740353e6789dbb1950463f",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_157.tif"
+    },
+    "normal_158": {
+      "file_name": "normal_158.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1889345337,
+      "official_md5": "7848348bdb6f664a58ad5124521f0fa1",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_158.tif"
+    },
+    "normal_159": {
+      "file_name": "normal_159.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1652161552,
+      "official_md5": "0d2fc1901fc4c4b27351f1a820ed47fc",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_159.tif"
+    },
+    "normal_160": {
+      "file_name": "normal_160.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2339245993,
+      "official_md5": "cac71f206f4eb095dcb646debdf15f3b",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/normal_160.tif"
+    },
+    "tumor_001": {
+      "file_name": "tumor_001.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 3264779514,
+      "official_md5": "de5af717ab3ec4fcff9ad827e0a9d904",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_001.tif"
+    },
+    "tumor_002": {
+      "file_name": "tumor_002.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1680307170,
+      "official_md5": "4aca5a3f58a42f51653664b64dff9484",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_002.tif"
+    },
+    "tumor_003": {
+      "file_name": "tumor_003.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2352386364,
+      "official_md5": "871f188154cb7f1376ea5c8d66a45d46",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_003.tif"
+    },
+    "tumor_004": {
+      "file_name": "tumor_004.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2648896840,
+      "official_md5": "310d112c525cea3e7053c910163329c9",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_004.tif"
+    },
+    "tumor_005": {
+      "file_name": "tumor_005.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1467903916,
+      "official_md5": "e21c6360b326a42a8ceaf754e003b2d1",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_005.tif"
+    },
+    "tumor_006": {
+      "file_name": "tumor_006.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2982752610,
+      "official_md5": "3ecb1f209eb4b8c2150215aba116e239",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_006.tif"
+    },
+    "tumor_007": {
+      "file_name": "tumor_007.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2361049492,
+      "official_md5": "2f8c9fb77e13dc33a371e7b75a8786d5",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_007.tif"
+    },
+    "tumor_008": {
+      "file_name": "tumor_008.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2766996664,
+      "official_md5": "cbf19a2e4cbf87abcf99a99a65ea4c95",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_008.tif"
+    },
+    "tumor_009": {
+      "file_name": "tumor_009.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2466318858,
+      "official_md5": "13551483a945f4944b4ca378fa8470d6",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_009.tif"
+    },
+    "tumor_010": {
+      "file_name": "tumor_010.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2127394906,
+      "official_md5": "dc78f438946ba42dacf77125d665e1bf",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_010.tif"
+    },
+    "tumor_011": {
+      "file_name": "tumor_011.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 1965315332,
+      "official_md5": "e4e717223b83e7866f541d0f63610886",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_011.tif"
+    },
+    "tumor_012": {
+      "file_name": "tumor_012.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1626791654,
+      "official_md5": "171838a29d6587913a74dbf1dbaf79ce",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_012.tif"
+    },
+    "tumor_013": {
+      "file_name": "tumor_013.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1988576902,
+      "official_md5": "3f72b0a59261839390bcb5847568c351",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_013.tif"
+    },
+    "tumor_014": {
+      "file_name": "tumor_014.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2253898518,
+      "official_md5": "e60cce61d3b30f01d5b1f451ab7591b9",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_014.tif"
+    },
+    "tumor_015": {
+      "file_name": "tumor_015.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 3534071834,
+      "official_md5": "4ae961ffda0511a2b2a6f34af05a8c63",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_015.tif"
+    },
+    "tumor_016": {
+      "file_name": "tumor_016.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 1524584022,
+      "official_md5": "2ac2b3614bfaa2d42352cf9f97a3ff5f",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_016.tif"
+    },
+    "tumor_017": {
+      "file_name": "tumor_017.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2341022060,
+      "official_md5": "6523dddde8066656b63e19144e89ced5",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_017.tif"
+    },
+    "tumor_018": {
+      "file_name": "tumor_018.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2404387928,
+      "official_md5": "4e55e63d3f66d8dca8b63411d864356b",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_018.tif"
+    },
+    "tumor_019": {
+      "file_name": "tumor_019.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1536279242,
+      "official_md5": "28e5b197cbcfd6e509b424256bff59b7",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_019.tif"
+    },
+    "tumor_020": {
+      "file_name": "tumor_020.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2501920708,
+      "official_md5": "653852995a90dfc6cc05bbddcab99973",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_020.tif"
+    },
+    "tumor_021": {
+      "file_name": "tumor_021.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2883511080,
+      "official_md5": "3fc918995431f3be8a6a989de0993c85",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_021.tif"
+    },
+    "tumor_022": {
+      "file_name": "tumor_022.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1983686468,
+      "official_md5": "f4227d124cd62f7adb6b7cd658e87244",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_022.tif"
+    },
+    "tumor_023": {
+      "file_name": "tumor_023.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1687969860,
+      "official_md5": "fce3e47761df3f5455931c1b97d45e51",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_023.tif"
+    },
+    "tumor_024": {
+      "file_name": "tumor_024.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2592990104,
+      "official_md5": "6dddb9ef17326d8638755353db7fe128",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_024.tif"
+    },
+    "tumor_025": {
+      "file_name": "tumor_025.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2047923160,
+      "official_md5": "53bdb6fb9869bb754452134ffb2df60e",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_025.tif"
+    },
+    "tumor_026": {
+      "file_name": "tumor_026.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2722872422,
+      "official_md5": "0dc6f7d193ac448da9aac52b07fc22a7",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_026.tif"
+    },
+    "tumor_027": {
+      "file_name": "tumor_027.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2431961806,
+      "official_md5": "2ed907bb4a8ec4a8b3d32477edec75b1",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_027.tif"
+    },
+    "tumor_028": {
+      "file_name": "tumor_028.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2707306402,
+      "official_md5": "8ef8a3f8a0983c8170655fe6f8944e71",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_028.tif"
+    },
+    "tumor_029": {
+      "file_name": "tumor_029.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2372662124,
+      "official_md5": "7c20e4068cd07f9800f08ee54435949e",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_029.tif"
+    },
+    "tumor_030": {
+      "file_name": "tumor_030.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2269671216,
+      "official_md5": "ec0877fb4d17455e7ba0add36b244235",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_030.tif"
+    },
+    "tumor_031": {
+      "file_name": "tumor_031.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 1487082070,
+      "official_md5": "86d5f0ee10e5606d87ad5603ce223236",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_031.tif"
+    },
+    "tumor_032": {
+      "file_name": "tumor_032.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2732745848,
+      "official_md5": "26aebfc685c18fd6e35d1bc0355af6f5",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_032.tif"
+    },
+    "tumor_033": {
+      "file_name": "tumor_033.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2287792722,
+      "official_md5": "96760514687408104dcc6c0f13bf5c95",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_033.tif"
+    },
+    "tumor_034": {
+      "file_name": "tumor_034.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 1582417680,
+      "official_md5": "ab94bed0ba1b9b3c20c110cc198fff20",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_034.tif"
+    },
+    "tumor_035": {
+      "file_name": "tumor_035.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1605582132,
+      "official_md5": "19bba7b3d349eb410f2ad4647a9f775a",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_035.tif"
+    },
+    "tumor_036": {
+      "file_name": "tumor_036.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2899596454,
+      "official_md5": "efdfb7217bf955707ffff704a01f93a9",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_036.tif"
+    },
+    "tumor_037": {
+      "file_name": "tumor_037.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2636760950,
+      "official_md5": "6ec951a2d04e58c4d7d31bbf40015de6",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_037.tif"
+    },
+    "tumor_038": {
+      "file_name": "tumor_038.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 1460355394,
+      "official_md5": "35d40ff9afaee35ff64b4a9c7120eec1",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_038.tif"
+    },
+    "tumor_039": {
+      "file_name": "tumor_039.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2378989710,
+      "official_md5": "d9e1d506b6531784fa55ac8220a5fde6",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_039.tif"
+    },
+    "tumor_040": {
+      "file_name": "tumor_040.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2464972516,
+      "official_md5": "75f7f8c0d5dd611a9359ddc403d68ee1",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_040.tif"
+    },
+    "tumor_041": {
+      "file_name": "tumor_041.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2121344578,
+      "official_md5": "0950ff1236b3ab52bf9e21452c5d07be",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_041.tif"
+    },
+    "tumor_042": {
+      "file_name": "tumor_042.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2162695754,
+      "official_md5": "19619f45201365bd8a107b3a64d45eb5",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_042.tif"
+    },
+    "tumor_043": {
+      "file_name": "tumor_043.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2550954276,
+      "official_md5": "3f647de8418b5d220c074754c82a619d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_043.tif"
+    },
+    "tumor_044": {
+      "file_name": "tumor_044.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2242825120,
+      "official_md5": "81191c89649a43ddbee99e135cf79f1a",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_044.tif"
+    },
+    "tumor_045": {
+      "file_name": "tumor_045.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2247886038,
+      "official_md5": "102402795358519d443c42144f78cfa5",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_045.tif"
+    },
+    "tumor_046": {
+      "file_name": "tumor_046.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 3144548740,
+      "official_md5": "b580f883e4b920f355f013eab21d5829",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_046.tif"
+    },
+    "tumor_047": {
+      "file_name": "tumor_047.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2584015710,
+      "official_md5": "95f3789a3e2dd671de6f764eec4fe914",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_047.tif"
+    },
+    "tumor_048": {
+      "file_name": "tumor_048.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2425267700,
+      "official_md5": "dfe78ca4519a3ddfa5d3f05df28e176a",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_048.tif"
+    },
+    "tumor_049": {
+      "file_name": "tumor_049.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1731519758,
+      "official_md5": "345bcc4a46ae5cd4adf4346da7b9aeb5",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_049.tif"
+    },
+    "tumor_050": {
+      "file_name": "tumor_050.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2482061248,
+      "official_md5": "06eb0d029b0f9caf840173e5fa473dac",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_050.tif"
+    },
+    "tumor_051": {
+      "file_name": "tumor_051.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 3475865558,
+      "official_md5": "1a8e455e501ed23c5e0af21718dc9af6",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_051.tif"
+    },
+    "tumor_052": {
+      "file_name": "tumor_052.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2352153660,
+      "official_md5": "208a765464b688ddd42d93040ef3ed79",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_052.tif"
+    },
+    "tumor_053": {
+      "file_name": "tumor_053.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2083856940,
+      "official_md5": "e74783ddc85c44fd63246b43ce62ff2f",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_053.tif"
+    },
+    "tumor_054": {
+      "file_name": "tumor_054.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2865426792,
+      "official_md5": "8bf92056c1b908b5ff74f998b5adc65a",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_054.tif"
+    },
+    "tumor_055": {
+      "file_name": "tumor_055.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 1950719628,
+      "official_md5": "f663a955ba7d0503648069c313f5528d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_055.tif"
+    },
+    "tumor_056": {
+      "file_name": "tumor_056.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2152198418,
+      "official_md5": "e37344c038ff2b446c13e432cac39d6b",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_056.tif"
+    },
+    "tumor_057": {
+      "file_name": "tumor_057.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1459755832,
+      "official_md5": "a9c9f94973d877c97e1618bfc139fcda",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_057.tif"
+    },
+    "tumor_058": {
+      "file_name": "tumor_058.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 1364483562,
+      "official_md5": "811bcc2f8b4eee2a0e856ef582ff3762",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_058.tif",
+      "preverified_sha256": "683d2de301d4c6c2cdb40690776b8b8b1b464a03aa1317c3b20afb3545a5941a"
+    },
+    "tumor_059": {
+      "file_name": "tumor_059.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1480993338,
+      "official_md5": "0236623877c929244edc233105ba2fdc",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_059.tif"
+    },
+    "tumor_060": {
+      "file_name": "tumor_060.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1907543320,
+      "official_md5": "c4186f4d601fc33fa28d5c11efebcc9c",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_060.tif"
+    },
+    "tumor_061": {
+      "file_name": "tumor_061.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2222719282,
+      "official_md5": "408b907e3a1c13c9892bf984123aaa7e",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_061.tif"
+    },
+    "tumor_062": {
+      "file_name": "tumor_062.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2176492874,
+      "official_md5": "cb5446587e7fadc6cf379553a6cc896f",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_062.tif"
+    },
+    "tumor_063": {
+      "file_name": "tumor_063.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 3598729974,
+      "official_md5": "df634a81b5a7a5c4da3030625a534ca7",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_063.tif"
+    },
+    "tumor_064": {
+      "file_name": "tumor_064.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 1645432562,
+      "official_md5": "d8c360a66ae99b89a772e3dfa0a1cb46",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_064.tif"
+    },
+    "tumor_065": {
+      "file_name": "tumor_065.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1404497198,
+      "official_md5": "1c1ca165238ed4edbeca3c70badd943d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_065.tif",
+      "preverified_sha256": "b1e5f22e49592fc6a58eff0b10434db0b423c38cc542c24d905462ae636321a6"
+    },
+    "tumor_066": {
+      "file_name": "tumor_066.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2854701014,
+      "official_md5": "07ebdf0cff2490c50e7c0b305b3b2d54",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_066.tif"
+    },
+    "tumor_067": {
+      "file_name": "tumor_067.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1454854440,
+      "official_md5": "0ae2fc3debe47ec005d44f0ddb53f0ec",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_067.tif"
+    },
+    "tumor_068": {
+      "file_name": "tumor_068.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2336668784,
+      "official_md5": "e2292faf1e80bfb2d1766abd089bb475",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_068.tif"
+    },
+    "tumor_069": {
+      "file_name": "tumor_069.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1785211848,
+      "official_md5": "377217f74d705102a4ca1b59adef2181",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_069.tif"
+    },
+    "tumor_070": {
+      "file_name": "tumor_070.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1907517700,
+      "official_md5": "03d47600144099cd9c4fc283e091f947",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_070.tif"
+    },
+    "tumor_071": {
+      "file_name": "tumor_071.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 2505110039,
+      "official_md5": "6c4686c34e2c8a6c6d34df458d5104b8",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_071.tif"
+    },
+    "tumor_072": {
+      "file_name": "tumor_072.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 2167037383,
+      "official_md5": "f9f79b3da8ddc6c7c9980cb95ee0f806",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_072.tif"
+    },
+    "tumor_073": {
+      "file_name": "tumor_073.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 1763977406,
+      "official_md5": "ee3eff701986304ddec52cb6c7c86378",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_073.tif"
+    },
+    "tumor_074": {
+      "file_name": "tumor_074.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 2083402321,
+      "official_md5": "52abb09f6fbdfe51f7618dc8c74f2861",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_074.tif"
+    },
+    "tumor_075": {
+      "file_name": "tumor_075.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 936998852,
+      "official_md5": "785ced428498716457981069dc457a46",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_075.tif"
+    },
+    "tumor_076": {
+      "file_name": "tumor_076.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 2407473430,
+      "official_md5": "72e0ab3da03b07902f68eb2a9cbdbc14",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_076.tif"
+    },
+    "tumor_077": {
+      "file_name": "tumor_077.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 2028783935,
+      "official_md5": "784ffa49281bb83cf787220c5f0541ba",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_077.tif"
+    },
+    "tumor_078": {
+      "file_name": "tumor_078.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 1705985748,
+      "official_md5": "23eeb3b23987fd66398286af9c62a668",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_078.tif"
+    },
+    "tumor_079": {
+      "file_name": "tumor_079.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 1930897665,
+      "official_md5": "d9f5a92edfefaf510fc417930b360591",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_079.tif"
+    },
+    "tumor_080": {
+      "file_name": "tumor_080.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 1856071561,
+      "official_md5": "f2b36e12fb9c61384c6a0a0b9e9c9d71",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_080.tif"
+    },
+    "tumor_081": {
+      "file_name": "tumor_081.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 1173305836,
+      "official_md5": "e6bbb3a88b49aac78e1c3d8dfb76ca22",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_081.tif",
+      "preverified_sha256": "2abf4fbe78c4f93276aa996d74967c2a93fbbbd9e8eb0c2418701cafed26778c"
+    },
+    "tumor_082": {
+      "file_name": "tumor_082.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 1132287017,
+      "official_md5": "33ba0a6c8c14698eaa9325f513b3ddc7",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_082.tif"
+    },
+    "tumor_083": {
+      "file_name": "tumor_083.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 2036560743,
+      "official_md5": "3ada7497e359a5791ba84637f006fba0",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_083.tif"
+    },
+    "tumor_084": {
+      "file_name": "tumor_084.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 838426602,
+      "official_md5": "be2668c308fcbddca6d29ff2d9c9788c",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_084.tif"
+    },
+    "tumor_085": {
+      "file_name": "tumor_085.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 1737300972,
+      "official_md5": "630482462691777238f96e989bd8898a",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_085.tif"
+    },
+    "tumor_086": {
+      "file_name": "tumor_086.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 2619352497,
+      "official_md5": "771e664a45b15e1e3c28afcc1d30db22",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_086.tif"
+    },
+    "tumor_087": {
+      "file_name": "tumor_087.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 1261833404,
+      "official_md5": "19318c79942c346f6a2df493a5e1db2e",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_087.tif"
+    },
+    "tumor_088": {
+      "file_name": "tumor_088.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 2309318659,
+      "official_md5": "a3583c4050cc17774ce82004760505c5",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_088.tif"
+    },
+    "tumor_089": {
+      "file_name": "tumor_089.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 2994045193,
+      "official_md5": "02060a22c2e138d74d36af4da3ab126b",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_089.tif"
+    },
+    "tumor_090": {
+      "file_name": "tumor_090.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 2595009501,
+      "official_md5": "0203b382e3a38fc0ee6def333d7958cc",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_090.tif"
+    },
+    "tumor_091": {
+      "file_name": "tumor_091.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 546437217,
+      "official_md5": "13d1499b683705112a18916189b522a2",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_091.tif",
+      "preverified_sha256": "29f5ca4caf206a2197a134fd61fd79032cf9f8364495aba5840a842a6967d4a4"
+    },
+    "tumor_092": {
+      "file_name": "tumor_092.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 2714864735,
+      "official_md5": "6104920388e31e69afa2e95add02889a",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_092.tif"
+    },
+    "tumor_093": {
+      "file_name": "tumor_093.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 1285324938,
+      "official_md5": "80b9b5c12457616928921015218ffec4",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_093.tif"
+    },
+    "tumor_094": {
+      "file_name": "tumor_094.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 1608718176,
+      "official_md5": "cf0c5f8ad38df0bbcb0a0b625e765c2b",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_094.tif"
+    },
+    "tumor_095": {
+      "file_name": "tumor_095.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 3015333215,
+      "official_md5": "2aa743371689b41b524583b0bec9f266",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_095.tif"
+    },
+    "tumor_096": {
+      "file_name": "tumor_096.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 1322041176,
+      "official_md5": "422aeb04eb7ebe8b8d1ed2ca286ee13d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_096.tif"
+    },
+    "tumor_097": {
+      "file_name": "tumor_097.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 1597105904,
+      "official_md5": "7f0890946d0fd4ac31d3247c04cee917",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_097.tif"
+    },
+    "tumor_098": {
+      "file_name": "tumor_098.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 1465919506,
+      "official_md5": "1632e755f5905357d59700b8517b9d13",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_098.tif"
+    },
+    "tumor_099": {
+      "file_name": "tumor_099.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 1580612380,
+      "official_md5": "ce17d60cb0e0daba9afb23eac573e30d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_099.tif"
+    },
+    "tumor_100": {
+      "file_name": "tumor_100.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 1726208090,
+      "official_md5": "ff804fe19c0b723f461d3d810807f964",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_100.tif"
+    },
+    "tumor_101": {
+      "file_name": "tumor_101.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 1460112585,
+      "official_md5": "a833f992a637d4634c96fd9a0d38b6a5",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_101.tif"
+    },
+    "tumor_102": {
+      "file_name": "tumor_102.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 3972871389,
+      "official_md5": "4efe51ef7566a6c87c85190c3e81381d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_102.tif"
+    },
+    "tumor_103": {
+      "file_name": "tumor_103.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 2276115969,
+      "official_md5": "4a9c3a2a0047364c12a91cd8ad9ec81b",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_103.tif"
+    },
+    "tumor_104": {
+      "file_name": "tumor_104.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 2238566450,
+      "official_md5": "14be53e78c7a039d4b9524907be848fc",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_104.tif"
+    },
+    "tumor_105": {
+      "file_name": "tumor_105.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 1347343550,
+      "official_md5": "b96c681e4195836b90a1c311c88994b2",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_105.tif"
+    },
+    "tumor_106": {
+      "file_name": "tumor_106.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 2493145929,
+      "official_md5": "c97ef6b0336ad2fec6d53f0feb06d5b4",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_106.tif"
+    },
+    "tumor_107": {
+      "file_name": "tumor_107.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 1132948542,
+      "official_md5": "948e583f6531bb9dcff08d543f23c3b3",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_107.tif"
+    },
+    "tumor_108": {
+      "file_name": "tumor_108.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 2149030366,
+      "official_md5": "115fc4481e0519fff513f34d975d4397",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_108.tif"
+    },
+    "tumor_109": {
+      "file_name": "tumor_109.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 1419727468,
+      "official_md5": "3871d1fbd44a4d534d7a97fb07e53e65",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_109.tif"
+    },
+    "tumor_110": {
+      "file_name": "tumor_110.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 1485042280,
+      "official_md5": "d67db9269977141ebd5e5ca1d765fee5",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_110.tif"
+    },
+    "tumor_111": {
+      "file_name": "tumor_111.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1960492360,
+      "official_md5": "693229528c70c68063309740fbced7fa",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/tumor_111.tif"
+    },
+    "test_001": {
+      "file_name": "test_001.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 1142160268,
+      "official_md5": "8473a1429d4502c30ec1f47f9420144c",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_001.tif"
+    },
+    "test_002": {
+      "file_name": "test_002.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2130014040,
+      "official_md5": "4993a77b52e7374bac78eaac1fc5ca65",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_002.tif"
+    },
+    "test_003": {
+      "file_name": "test_003.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1824126080,
+      "official_md5": "ef0d2f02aa4a892f9092b0d607e073c5",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_003.tif"
+    },
+    "test_004": {
+      "file_name": "test_004.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 1624030508,
+      "official_md5": "c80ea6a7e87afe08f321efd732401836",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_004.tif"
+    },
+    "test_005": {
+      "file_name": "test_005.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1510544770,
+      "official_md5": "c539b273167d45563d67823aa1f6a147",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_005.tif"
+    },
+    "test_006": {
+      "file_name": "test_006.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2321262406,
+      "official_md5": "1343bbddfb62835015ac13f506149df8",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_006.tif"
+    },
+    "test_007": {
+      "file_name": "test_007.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1705705718,
+      "official_md5": "79843c81fadd692445ba0c3899d7ca33",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_007.tif"
+    },
+    "test_008": {
+      "file_name": "test_008.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 1564834484,
+      "official_md5": "ebed3fbd951cb6258d309e2f5b59bcb3",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_008.tif"
+    },
+    "test_009": {
+      "file_name": "test_009.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1775040898,
+      "official_md5": "08c6fdcf33ba529a18e2dabaa0a143ee",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_009.tif"
+    },
+    "test_010": {
+      "file_name": "test_010.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1920990340,
+      "official_md5": "2a1b11d7e82d1b55b72c6cc8385dd53b",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_010.tif"
+    },
+    "test_011": {
+      "file_name": "test_011.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1515502234,
+      "official_md5": "744031f709acb6956dd6ed9479c921d6",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_011.tif"
+    },
+    "test_012": {
+      "file_name": "test_012.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1481963652,
+      "official_md5": "114e18ad4be393db687e83e30c26bcb9",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_012.tif"
+    },
+    "test_013": {
+      "file_name": "test_013.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1212648208,
+      "official_md5": "4d89e68da4a6c2eab79dd5d7fa4d6c21",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_013.tif"
+    },
+    "test_014": {
+      "file_name": "test_014.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2157582280,
+      "official_md5": "2205386920be86eaf0a308b3d646f60b",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_014.tif"
+    },
+    "test_015": {
+      "file_name": "test_015.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1323395456,
+      "official_md5": "7f9b8b6bfe00eae3c716ec9abc7ba17a",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_015.tif"
+    },
+    "test_016": {
+      "file_name": "test_016.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 1810550358,
+      "official_md5": "63b188691136c94e5556c0349727b70d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_016.tif"
+    },
+    "test_017": {
+      "file_name": "test_017.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1651084388,
+      "official_md5": "10baf474b8114bb96a0cb5f7bcdce2c2",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_017.tif"
+    },
+    "test_018": {
+      "file_name": "test_018.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 722332440,
+      "official_md5": "7a89cee88f144af5dee3f4beaa419e01",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_018.tif"
+    },
+    "test_019": {
+      "file_name": "test_019.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2860440803,
+      "official_md5": "c5436af2be077f8375496f6434213bcf",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_019.tif"
+    },
+    "test_020": {
+      "file_name": "test_020.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1035471938,
+      "official_md5": "3bd32dda32bac2c3d5ec2a469f9f5319",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_020.tif"
+    },
+    "test_021": {
+      "file_name": "test_021.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2736705640,
+      "official_md5": "7c7524d335b9969bef0bb8dbce4e9dfd",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_021.tif"
+    },
+    "test_022": {
+      "file_name": "test_022.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1586434702,
+      "official_md5": "a391bcf23cdb62e736736821af058702",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_022.tif"
+    },
+    "test_023": {
+      "file_name": "test_023.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2069022664,
+      "official_md5": "81d3cb7b8048b1ff9b5997a5cf688971",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_023.tif"
+    },
+    "test_024": {
+      "file_name": "test_024.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1805314314,
+      "official_md5": "6ea84241e69f8637ddeb795dc0e8feba",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_024.tif"
+    },
+    "test_025": {
+      "file_name": "test_025.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1264267748,
+      "official_md5": "9a93d752d831bafd79256b182bdfac4d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_025.tif"
+    },
+    "test_026": {
+      "file_name": "test_026.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 1420600350,
+      "official_md5": "ae03db0f80f861ca818b315772142084",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_026.tif"
+    },
+    "test_027": {
+      "file_name": "test_027.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 1905308394,
+      "official_md5": "9ce969a939849015f11f77aabd364d8a",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_027.tif"
+    },
+    "test_028": {
+      "file_name": "test_028.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2159285057,
+      "official_md5": "bef3707998c7ed5c0cb01aed438c9067",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_028.tif"
+    },
+    "test_029": {
+      "file_name": "test_029.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1534506190,
+      "official_md5": "30cfe685658026cfd6d556306e04660a",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_029.tif"
+    },
+    "test_030": {
+      "file_name": "test_030.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2489698598,
+      "official_md5": "9705aafb1d8a312caf691a36e6f362a3",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_030.tif"
+    },
+    "test_031": {
+      "file_name": "test_031.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1732748376,
+      "official_md5": "833e81f91b69e5016ed9fb11c03a1c94",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_031.tif"
+    },
+    "test_032": {
+      "file_name": "test_032.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2458673472,
+      "official_md5": "5c20f3051718d831229f5e712868b713",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_032.tif"
+    },
+    "test_033": {
+      "file_name": "test_033.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 3506725767,
+      "official_md5": "91697316402a26bd347e508d41ab5413",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_033.tif"
+    },
+    "test_034": {
+      "file_name": "test_034.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1560735825,
+      "official_md5": "18326d5f87e55646e157ed5fff366541",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_034.tif"
+    },
+    "test_035": {
+      "file_name": "test_035.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2061041806,
+      "official_md5": "1ecb18cf30a561c54b4e458128dd8cf2",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_035.tif"
+    },
+    "test_036": {
+      "file_name": "test_036.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1709459776,
+      "official_md5": "2c061ae209113ac767499e7111deb633",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_036.tif"
+    },
+    "test_037": {
+      "file_name": "test_037.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2182564164,
+      "official_md5": "7f32019938003565f05ddc3f80368975",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_037.tif"
+    },
+    "test_038": {
+      "file_name": "test_038.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1714993446,
+      "official_md5": "3a9aa5bdb3285e51304a4b72aa16b9cb",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_038.tif"
+    },
+    "test_039": {
+      "file_name": "test_039.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1479387530,
+      "official_md5": "683a9a81479e6a75a54c5eba45a88b99",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_039.tif"
+    },
+    "test_040": {
+      "file_name": "test_040.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 1727632720,
+      "official_md5": "14bac47aaa3618d5ec5e32c1b6d9ca35",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_040.tif"
+    },
+    "test_041": {
+      "file_name": "test_041.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1596747978,
+      "official_md5": "aa5c659860b0045f1cf0846f1677b98b",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_041.tif"
+    },
+    "test_042": {
+      "file_name": "test_042.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 3432105455,
+      "official_md5": "4c322cd2371b4afe08a011fb42b77999",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_042.tif"
+    },
+    "test_043": {
+      "file_name": "test_043.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1557268378,
+      "official_md5": "557e6864c7541287856935618cc4b6b2",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_043.tif"
+    },
+    "test_044": {
+      "file_name": "test_044.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 942416626,
+      "official_md5": "72d0551be98a86cf78a0eabbccffc6d3",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_044.tif"
+    },
+    "test_045": {
+      "file_name": "test_045.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1362755712,
+      "official_md5": "5e2aaab67209438718db65e427ed9b98",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_045.tif"
+    },
+    "test_046": {
+      "file_name": "test_046.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 596259854,
+      "official_md5": "8326702ab42c503d0c942b7547440a79",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_046.tif"
+    },
+    "test_047": {
+      "file_name": "test_047.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1060444842,
+      "official_md5": "bcc5da719e9faa4dc309e44d70fbfa40",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_047.tif"
+    },
+    "test_048": {
+      "file_name": "test_048.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 1734370886,
+      "official_md5": "e1b12dcaa96c0620dd5b171d87d85c79",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_048.tif"
+    },
+    "test_050": {
+      "file_name": "test_050.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2424437418,
+      "official_md5": "8a85823fffc77fb988a15b49cf30d7ad",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_050.tif"
+    },
+    "test_051": {
+      "file_name": "test_051.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 1380984992,
+      "official_md5": "ae05f351c667b6d4786b62f853eb4125",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_051.tif"
+    },
+    "test_052": {
+      "file_name": "test_052.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2045411926,
+      "official_md5": "8a8b7a79de0968faaa0abcecb313df72",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_052.tif"
+    },
+    "test_053": {
+      "file_name": "test_053.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2608464572,
+      "official_md5": "182bffe75872771e447e5dae4b19ac88",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_053.tif"
+    },
+    "test_054": {
+      "file_name": "test_054.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2195110526,
+      "official_md5": "86f9394905ca902c183d96077aba69a6",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_054.tif"
+    },
+    "test_055": {
+      "file_name": "test_055.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 601196116,
+      "official_md5": "3bc84e1aca61ead2b2dce789b8ec0c53",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_055.tif"
+    },
+    "test_056": {
+      "file_name": "test_056.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2486009426,
+      "official_md5": "e8e7024ee0e4114effebf07644ebbdcd",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_056.tif"
+    },
+    "test_057": {
+      "file_name": "test_057.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1433138014,
+      "official_md5": "811d79a44b3f6a8e44215cce1c5c76e8",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_057.tif"
+    },
+    "test_058": {
+      "file_name": "test_058.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1749793468,
+      "official_md5": "c6230a47f3a2073383d09bc1a8d05f92",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_058.tif"
+    },
+    "test_059": {
+      "file_name": "test_059.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1873071598,
+      "official_md5": "865a66383aba4006a60ac77cbbc72be0",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_059.tif"
+    },
+    "test_060": {
+      "file_name": "test_060.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1176396042,
+      "official_md5": "e379171220997751f26fa933a3a03c41",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_060.tif"
+    },
+    "test_061": {
+      "file_name": "test_061.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2374622230,
+      "official_md5": "3b9547b0afa06e4374edf26b12c18df8",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_061.tif"
+    },
+    "test_062": {
+      "file_name": "test_062.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 477513231,
+      "official_md5": "32fb582cf6d6a4fe05b8af3d3cfffa60",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_062.tif"
+    },
+    "test_063": {
+      "file_name": "test_063.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1345338084,
+      "official_md5": "a8e822b0d423345c16bcf28d438a9b0a",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_063.tif"
+    },
+    "test_064": {
+      "file_name": "test_064.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1388678306,
+      "official_md5": "c0978b35caf0450735e81c50578e87be",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_064.tif"
+    },
+    "test_065": {
+      "file_name": "test_065.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 448272450,
+      "official_md5": "3669a3b319ed55fe62d5f7a868c24314",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_065.tif"
+    },
+    "test_066": {
+      "file_name": "test_066.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 1880979763,
+      "official_md5": "f08b08c9a06ee14defd62b6e9f51b0d6",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_066.tif"
+    },
+    "test_067": {
+      "file_name": "test_067.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2415492970,
+      "official_md5": "b41e28f73c86d0964e2a87ecfcd6fb96",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_067.tif"
+    },
+    "test_068": {
+      "file_name": "test_068.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2530427892,
+      "official_md5": "9821ef39f698e2ab7be10d1c55b5c0d9",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_068.tif"
+    },
+    "test_069": {
+      "file_name": "test_069.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 3665003187,
+      "official_md5": "a7016f6be9a5a201678e51abdcd55ca2",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_069.tif"
+    },
+    "test_070": {
+      "file_name": "test_070.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1855554156,
+      "official_md5": "524a3b5664c0b39178427bc3d449ac75",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_070.tif"
+    },
+    "test_071": {
+      "file_name": "test_071.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 1759130069,
+      "official_md5": "2110cebc861c340d72564cfcdb64d5b5",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_071.tif"
+    },
+    "test_072": {
+      "file_name": "test_072.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1676104636,
+      "official_md5": "2b3f3f30a91b0e5b3111eeef1f5af450",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_072.tif"
+    },
+    "test_073": {
+      "file_name": "test_073.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 1554843153,
+      "official_md5": "457adc4a79693b7052c95669df0537f9",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_073.tif"
+    },
+    "test_074": {
+      "file_name": "test_074.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 2117506982,
+      "official_md5": "948a18da7d95bf39d58ff9e75661c504",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_074.tif"
+    },
+    "test_075": {
+      "file_name": "test_075.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 1803042506,
+      "official_md5": "3fa274d1e885e8471e9fb2a8674e44dc",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_075.tif"
+    },
+    "test_076": {
+      "file_name": "test_076.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2178634478,
+      "official_md5": "fe388e5e5de6acd5fc1b4aa75886efc0",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_076.tif"
+    },
+    "test_077": {
+      "file_name": "test_077.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1693864750,
+      "official_md5": "bd3ee8f94b49837a7037737f357ae231",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_077.tif"
+    },
+    "test_078": {
+      "file_name": "test_078.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1406959158,
+      "official_md5": "9f2eef5f4a544bafd4547d81b66bda49",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_078.tif"
+    },
+    "test_079": {
+      "file_name": "test_079.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 1025423882,
+      "official_md5": "8b52248458df7d839c5af18044c5ff54",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_079.tif"
+    },
+    "test_080": {
+      "file_name": "test_080.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1671722550,
+      "official_md5": "ea9f971eee050ed8a7c2eacd2a0ae46a",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_080.tif"
+    },
+    "test_081": {
+      "file_name": "test_081.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1275346140,
+      "official_md5": "fa5bd160cb2a858c271535879f7c6c83",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_081.tif"
+    },
+    "test_082": {
+      "file_name": "test_082.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2022366318,
+      "official_md5": "03b13ee5369fc56b0c254552e4c6e81d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_082.tif"
+    },
+    "test_083": {
+      "file_name": "test_083.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1314714180,
+      "official_md5": "e0722dcf5f2dfcd5b120705a89a47b4b",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_083.tif"
+    },
+    "test_084": {
+      "file_name": "test_084.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 922275172,
+      "official_md5": "1cf024dc6adb632d5e248fd797b623a0",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_084.tif"
+    },
+    "test_085": {
+      "file_name": "test_085.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1724003618,
+      "official_md5": "713c67217d28ccf52940beb235aaa895",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_085.tif"
+    },
+    "test_086": {
+      "file_name": "test_086.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1126999700,
+      "official_md5": "332a24bceaa27ee1b9dc0a9c9dbbd01b",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_086.tif"
+    },
+    "test_087": {
+      "file_name": "test_087.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1470267660,
+      "official_md5": "f9cd57e7c4c41e4e35d03f74f30f155e",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_087.tif"
+    },
+    "test_088": {
+      "file_name": "test_088.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1922288050,
+      "official_md5": "700abda5f3a28b24b0c2be7ea091b471",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_088.tif"
+    },
+    "test_089": {
+      "file_name": "test_089.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1160554169,
+      "official_md5": "c7334463a9fd69456108e82495e2afdd",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_089.tif"
+    },
+    "test_090": {
+      "file_name": "test_090.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2749405796,
+      "official_md5": "c891a436e655c1b7e084f425de4330c4",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_090.tif"
+    },
+    "test_091": {
+      "file_name": "test_091.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1750304452,
+      "official_md5": "87160a115718bf9a81129bc41b6e9116",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_091.tif"
+    },
+    "test_092": {
+      "file_name": "test_092.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 2028466890,
+      "official_md5": "89daf3d6f18208350d06e68760bb8da5",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_092.tif"
+    },
+    "test_093": {
+      "file_name": "test_093.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1788558122,
+      "official_md5": "9dba421f665047f3139974121334cf1d",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_093.tif"
+    },
+    "test_094": {
+      "file_name": "test_094.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 1241519868,
+      "official_md5": "e9d84b9f6133c3405656d7280fce38f5",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_094.tif"
+    },
+    "test_095": {
+      "file_name": "test_095.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1046055496,
+      "official_md5": "c341e938077409b21937b8e03227433f",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_095.tif"
+    },
+    "test_096": {
+      "file_name": "test_096.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1441880970,
+      "official_md5": "85b7a1ddad0a0563fc92f5c9032b89f3",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_096.tif"
+    },
+    "test_097": {
+      "file_name": "test_097.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1915602216,
+      "official_md5": "f6e8148daa2be708ce03609f19150f59",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_097.tif"
+    },
+    "test_098": {
+      "file_name": "test_098.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1558512336,
+      "official_md5": "57c9ed48e184736132f22e75b113fae2",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_098.tif"
+    },
+    "test_099": {
+      "file_name": "test_099.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 1319590586,
+      "official_md5": "a85ae37dbf51990a9beea697ef91a947",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_099.tif"
+    },
+    "test_100": {
+      "file_name": "test_100.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2734530692,
+      "official_md5": "4ef98cd9262ba398601c15c3d206e682",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_100.tif"
+    },
+    "test_101": {
+      "file_name": "test_101.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1741063243,
+      "official_md5": "d4e2dfd82feafb6eec8582c59aaaedef",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_101.tif"
+    },
+    "test_102": {
+      "file_name": "test_102.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 1726020573,
+      "official_md5": "985092fad35a8367af6eec69088631de",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_102.tif"
+    },
+    "test_103": {
+      "file_name": "test_103.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1369992968,
+      "official_md5": "f66064d28f8ea3dc972de087b8033775",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_103.tif"
+    },
+    "test_104": {
+      "file_name": "test_104.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 2066160080,
+      "official_md5": "f2c3c3618150466577ca51611980a54f",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_104.tif"
+    },
+    "test_105": {
+      "file_name": "test_105.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 2758996974,
+      "official_md5": "80fdcf2042eb0d4362776ea9aad38330",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_105.tif"
+    },
+    "test_106": {
+      "file_name": "test_106.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1456275936,
+      "official_md5": "ea7d64a35d383eac2cc9ce76ccdd9cc6",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_106.tif"
+    },
+    "test_107": {
+      "file_name": "test_107.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1326724922,
+      "official_md5": "c1676ebc4705ad6da25f77ceefca33ec",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_107.tif"
+    },
+    "test_108": {
+      "file_name": "test_108.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1321974498,
+      "official_md5": "75d33abcdc8b6c21c459519834655dee",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_108.tif"
+    },
+    "test_109": {
+      "file_name": "test_109.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1458096837,
+      "official_md5": "c9f2c388a621f1afc688b5d923c1a27e",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_109.tif"
+    },
+    "test_110": {
+      "file_name": "test_110.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 1546991942,
+      "official_md5": "d8e3d475c503944a838f491c4534bb7e",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_110.tif"
+    },
+    "test_111": {
+      "file_name": "test_111.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1450647656,
+      "official_md5": "fce2e589d697aecb8fbe3e8d91c4ada7",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_111.tif"
+    },
+    "test_112": {
+      "file_name": "test_112.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1639710788,
+      "official_md5": "83e4ae0ddbc61d5bfc2a9a733b92b561",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_112.tif"
+    },
+    "test_113": {
+      "file_name": "test_113.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 2174630500,
+      "official_md5": "44436eee7af3cd97ecf3092e3f5c0218",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_113.tif"
+    },
+    "test_114": {
+      "file_name": "test_114.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 1,
+      "declared_bytes": 1839758190,
+      "official_md5": "529351c06e8fc0b29c7605f2bba962ec",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_114.tif"
+    },
+    "test_115": {
+      "file_name": "test_115.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1511252300,
+      "official_md5": "177b925dc5d79d7b091e1625d22c0412",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_115.tif"
+    },
+    "test_116": {
+      "file_name": "test_116.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 821415436,
+      "official_md5": "8ee1e383255b6fbb845a4f3992137ec6",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_116.tif"
+    },
+    "test_117": {
+      "file_name": "test_117.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 0,
+      "declared_bytes": 1496928706,
+      "official_md5": "1eec89e4d2d0a0d10ecb5514d9c0143f",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_117.tif"
+    },
+    "test_118": {
+      "file_name": "test_118.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1641477312,
+      "official_md5": "e374d5654de317a6abcf5a7e1c54de75",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_118.tif"
+    },
+    "test_119": {
+      "file_name": "test_119.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1030443218,
+      "official_md5": "e4166d9ad6f2476ea2637b877d7164c5",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_119.tif"
+    },
+    "test_120": {
+      "file_name": "test_120.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2179990227,
+      "official_md5": "dd01e3839a00516016d213efcd308409",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_120.tif"
+    },
+    "test_121": {
+      "file_name": "test_121.tif",
+      "type": "tumor",
+      "category": "macro",
+      "center": 0,
+      "declared_bytes": 1664412750,
+      "official_md5": "b647c355a41e3365b31949e442f2786c",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_121.tif"
+    },
+    "test_122": {
+      "file_name": "test_122.tif",
+      "type": "tumor",
+      "category": "micro",
+      "center": 1,
+      "declared_bytes": 1031701778,
+      "official_md5": "f204a61992f0d86cff69f2b1f7c5b215",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_122.tif"
+    },
+    "test_123": {
+      "file_name": "test_123.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1437454606,
+      "official_md5": "d69492ef0356ffbd87c7e6d027d97b08",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_123.tif"
+    },
+    "test_124": {
+      "file_name": "test_124.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1226651032,
+      "official_md5": "cde9743dfe4aac91f30bd9734018fe0c",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_124.tif"
+    },
+    "test_125": {
+      "file_name": "test_125.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 1649735192,
+      "official_md5": "9c7fafb7ca74f639d8512a2195b4ab48",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_125.tif"
+    },
+    "test_126": {
+      "file_name": "test_126.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 2309655112,
+      "official_md5": "9dfb78e7f30adb092a1e2bc29641cf23",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_126.tif"
+    },
+    "test_127": {
+      "file_name": "test_127.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 2903779575,
+      "official_md5": "ae61ada3b44debb0ccfed004acb8b52e",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_127.tif"
+    },
+    "test_128": {
+      "file_name": "test_128.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 1,
+      "declared_bytes": 494985030,
+      "official_md5": "928e5fec159b44a4a1c56d5042ae53d8",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_128.tif"
+    },
+    "test_129": {
+      "file_name": "test_129.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1208039328,
+      "official_md5": "859e21649fd199c83a393d0d5dc7d7aa",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_129.tif"
+    },
+    "test_130": {
+      "file_name": "test_130.tif",
+      "type": "normal",
+      "category": "negative",
+      "center": 0,
+      "declared_bytes": 1748518866,
+      "official_md5": "4e1038540a12f1f0a3d9850e663b28a9",
+      "image_url": "https://camelyon-dataset.s3.us-west-2.amazonaws.com/CAMELYON16/images/test_130.tif"
+    }
+  }
+}

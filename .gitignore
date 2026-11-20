@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+data/
+runs/
+*.tif
+*.tiff
+*.svs
+*.mrxs
+*.ndpi
+*.sqlite
+*.db
+.DS_Store
